@@ -7,7 +7,7 @@ class Pig implements Animal {
         System.out.println("The pig says: wee wee");
     }
 
-    @Override   //¥i©¿²¤¦]¬°¥²¶·ÂĞ¼g
+    @Override    //å¯å¿½ç•¥å› ç‚ºå¿…é ˆè¦†å¯«
     public void animalStep() {
         System.out.println("The pig walk slowly");
     }

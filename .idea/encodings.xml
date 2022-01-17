@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Tutorial_class" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_1" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_10" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_11" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_12" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_13" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_14" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_2" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_3" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_4" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_5" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_6" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_7" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_8" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/app10_9" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/ch11" charset="Big5" />
-    <file url="file://$PROJECT_DIR$/ch12" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/Tutorial_class" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tutorial_class/src/InterfaceExample/Main.java" charset="UTF-8" />
   </component>
 </project>
